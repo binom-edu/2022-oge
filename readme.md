@@ -1,4 +1,15 @@
 # Программирование на python
+## Занятие 3 (16 января)
++ полная и неполная форма ветвления
++ вложенное ветвление
++ каскадное ветвление
++ сложные условия
+
+### Домашка
++ https://informatics.msk.ru/mod/statements/view.php?id=276#1
++ https://informatics.msk.ru/mod/statements/view.php?id=11144#1
++ теория https://pythontutor.ru/lessons/ifelse/
+
 ## Занятие 2 (9 января)
 + решение задач на ввод-вывод и целочисленную арифметику
 
