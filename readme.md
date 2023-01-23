@@ -1,4 +1,14 @@
 # Программирование на python
+## Занятие 4 (23 января)
++ цикл с условием
++ операторы break и continue
++ задачи на анализ цифр числа
++ алгоритм Евклида
++ теория: https://pythontutor.ru/lessons/while/
+### Домашка
++ https://informatics.msk.ru/mod/statements/view.php?id=249
++ https://informatics.msk.ru/mod/statements/view.php?id=2585
++ https://informatics.msk.ru/mod/statements/view.php?id=2587
 ## Занятие 3 (16 января)
 + полная и неполная форма ветвления
 + вложенное ветвление
