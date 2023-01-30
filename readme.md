@@ -1,4 +1,13 @@
 # Программирование на python
+## Занятие 4 (30 января)
++ цикл с переменной
++ функция range
++ вычисление суммы арифметической прогрессии
++ вычисление факториала
+### Домашка
++ https://informatics.msk.ru/mod/statements/view.php?id=278
++ https://informatics.msk.ru/mod/statements/view.php?id=280
++ (доп) https://informatics.msk.ru/mod/statements/view.php?id=11145#1
 ## Занятие 4 (23 января)
 + цикл с условием
 + операторы break и continue
