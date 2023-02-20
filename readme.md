@@ -1,4 +1,17 @@
 # Программирование на python
+## Занятие 8 (20 февраля)
++ символьные строки
++ строковые методы
+### Домашка
++ https://informatics.msk.ru/mod/statements/view.php?id=11250&chapterid=112336#1
++ https://informatics.msk.ru/mod/statements/view.php?id=11403
+## Занятие 7 (13 февраля)
++ алгоритмы обработки массивов
++ поиск максимума / минимума
++ подсчет элементов по критерию
+### Домашка
++ https://informatics.msk.ru/mod/statements/view.php?id=2741#1
++ https://codeforces.com/group/2wM6C9PIdG/contest/427313 (задача A)
 ## Занятие 6 (6 февраля)
 + списки
 ### Домашка
